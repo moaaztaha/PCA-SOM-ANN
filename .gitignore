@@ -2,3 +2,4 @@
 *.zip
 glove.6B/
 *.txt
+*.pt
