@@ -4,3 +4,4 @@ glove.6B/
 *.txt
 *.pt
 fashion/
+*.csv
